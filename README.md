@@ -4,8 +4,8 @@ Light Dark Theme with Context API Reactjs Projects.
 ## Live Project Link
 [Light-Dark-Theme](https://clever-hamster-f4cd3f.netlify.app/)
 
-## Video Link
-[Video Link](https://www.youtube.com/watch?v=gxoN6jWC5bU/)
+## Project Video Link
+[Project Tutorial Video Link](https://www.youtube.com/watch?v=gxoN6jWC5bU/)
 
 # How to fork and clone
 
